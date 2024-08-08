@@ -1,4 +1,10 @@
-﻿using System;
+/* 
+ * Author 	: Ahmed Sellami
+ * Problem-Name : A. Petya and Strings
+ * Problem-Link : https://codeforces.com/problemset/problem/112/A
+*/
+
+using System;
 namespace CodeForces {
     internal class Program {
         static void Main(string[] args) {
